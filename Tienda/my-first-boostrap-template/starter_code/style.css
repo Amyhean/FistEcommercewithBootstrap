@@ -1,0 +1,20 @@
+#pelu{
+    width: 450rem;
+    height: 300rem;
+}
+.container{
+    margin-top: 80px;
+}
+.btn-car{
+    background-color: transparent;
+    float: center;
+    border-radius: 3px;
+    padding: 5px;
+}
+.jumbotron{
+    background-image: url(https://s3.amazonaws.com/salto99/images/portadas-para-facebook-fotos-de-portada-de-facebook-fondos-para-twitterdh2rpn8r.jpg);
+}
+.rebajas {
+    text-decoration: line-through;
+    color: darkgrey;
+  }
